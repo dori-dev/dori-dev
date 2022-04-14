@@ -6,9 +6,10 @@
 <a target="_blank" href="https://virgool.io/@dori-dev">
   <img align="left" alt="Dori Virgool" width="27px" src="img/virgool.png" />
 </a>
-<a target="_blank" href="https://github.com/dori-dev">
-  <img align="left" alt="Dori Dev Github" width="27px" src="img/github.png" />
-</a>
+
+[![website](<img align="left" alt="Dori Dev Github" width="27px" src="img/github2.png" />)](https://github.com/dori-dev#gh-light-mode-only)
+[![website](<img align="left" alt="Dori Dev Github" width="27px" src="img/github.png" />)](https://github.com/dori-dev#gh-dark-mode-only)
+
 <a target="_blank" href="https://www.instagram.com">
   <img align="left" alt="Mohammad Instagram" width="27px" src="img/instagram.png" />
 </a>
