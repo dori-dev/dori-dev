@@ -1,18 +1,18 @@
 # Hi, I'm Mohammad <img src="img/hand.gif" width="35px">
 
-<a href="https://www.youtube.com/channel/UC8PIMbjxztHeiBWZRpblp2A">
+<a target="_blank" href="https://www.youtube.com/channel/UC8PIMbjxztHeiBWZRpblp2A">
   <img align="left" alt="Dori Learn Youtube" width="27px" src="img/youtube.svg" />
 </a>
-<a href="https://virgool.io/@dori-dev">
+<a target="_blank" href="https://virgool.io/@dori-dev">
   <img align="left" alt="Dori Virgool" width="27px" src="img/virgool.png" />
 </a>
-<a href="https://github.com/dori-dev">
+<a target="_blank" href="https://github.com/dori-dev">
   <img align="left" alt="Dori Dev Github" width="27px" src="img/github.png" />
 </a>
-<a href="https://www.instagram.com">
+<a target="_blank" href="https://www.instagram.com">
   <img align="left" alt="Mohammad Instagram" width="27px" src="img/instagram.png" />
 </a>
-<a href="https://www.aparat.com/dori.dev">
+<a target="_blank" href="https://www.aparat.com/dori.dev">
   <img align="left" alt="Mohammad Aparat" width="27px" src="img/aparat.png" />
 </a>
 
@@ -51,4 +51,4 @@ Hello, I'm [Mohammad Dori](https://github.com/dori-dev), a full stack creative w
 <br />
 <br />
 
-<img src="https://github-readme-stats.vercel.app/api?username=dori-dev&show_icons=true&theme=gotham" alt="dori-dev" />
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=dori-dev&show_icons=true&theme=gotham" alt="dori-dev" /></p>
