@@ -8,8 +8,7 @@
 </a>
 
 [![website](./img/github2.png)](https://github.com/dori-dev#gh-light-mode-only)
-[![website](<img align="left" alt="Dori Dev Github" width="27px" src="img/github.png" />)](https://github.com/dori-dev#gh-dark-mode-only)
-&nbsp;&nbsp;
+[![website](./img/github.png)](https://github.com/dori-dev#gh-dark-mode-only)
 
 <a target="_blank" href="https://www.instagram.com">
   <img align="left" alt="Mohammad Instagram" width="27px" src="img/instagram.png" />
