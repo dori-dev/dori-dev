@@ -1,20 +1,27 @@
 # Hi, I'm Mohammad <img src="img/hand.gif" width="35px">
 
-<a href="https://www.youtube.com">
+<a href="https://www.youtube.com/channel/UC8PIMbjxztHeiBWZRpblp2A">
   <img align="left" alt="Dori Learn Youtube" width="27px" src="img/youtube.svg" />
 </a>
-<a href="https://www.github.com">
+<a href="https://virgool.io/@dori-dev">
+  <img align="left" alt="Dori Virgool" width="27px" src="img/virgool.png" />
+</a>
+<a href="https://github.com/dori-dev">
   <img align="left" alt="Dori Dev Github" width="27px" src="img/github.png" />
 </a>
 <a href="https://www.instagram.com">
   <img align="left" alt="Mohammad Instagram" width="27px" src="img/instagram.png" />
 </a>
-<a href="https://twitter.com">
+<a href="https://www.aparat.com/dori.dev">
+  <img align="left" alt="Mohammad Aparat" width="27px" src="img/aparat.png" />
+</a>
+
+<!-- <a href="https://twitter.com">
   <img align="left" alt="Mohammad Twitter" width="27px" src="img/twitter.svg" />
 </a>
 <a href="https://www.linkedin.com">
   <img align="left" alt="Mohammad Linkedin" width="27px" src="img/linkedin.svg" />
-</a>
+</a> -->
 
 <br />
 <br />
