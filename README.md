@@ -28,17 +28,12 @@ Hello, I'm [Mohammad Dori](https://github.com/dori-dev), a full stack creative w
 - 💬 Ask me about anything, i am happy to help!
 
 <br />
-<br />
 
-**Technologies and Tools:**
-
-<img align="left" alt="Django" width="26px" src="img/django.png" style="padding-right:10px;" />
+**Technologies**
 
 <img align="left" alt="Python" width="26px" src="img/python.png" style="padding-right:10px;" />
 
-<img align="left" alt="Visual Studio Code" width="26px" src="img/vscode.png" style="padding-right:10px;" />
-
-<img align="left" alt="PostgreSQL" width="26px" src="img/postgresql.png" style="padding-right:10px;" />
+<img align="left" alt="Django" width="26px" src="img/django.png" style="padding-right:10px;" />
 
 <img align="left" alt="HTML5" width="26px" src="img/html.svg" style="padding-right:10px;" />
 
@@ -48,9 +43,9 @@ Hello, I'm [Mohammad Dori](https://github.com/dori-dev), a full stack creative w
 
 <img align="left" alt="React" width="26px" src="img/react.png" style="padding-right:10px;" />
 
-<img align="left" alt="Git" width="26px" src="img/git.png" style="padding-right:10px;" />
+<img align="left" alt="PostgreSQL" width="26px" src="img/postgresql.png" style="padding-right:10px;" />
 
-<img align="left" alt="GitHub" width="26px" src="img/github.png" style="padding-right:10px;" />
+<img align="left" alt="Git" width="26px" src="img/git.png" style="padding-right:10px;" />
 
 <br />
 <br />
