@@ -24,31 +24,24 @@ Hello, I'm [Mohammad Dori](https://github.com/dori-dev), a full stack creative w
 
 <img alt="GIF" src="img/code.gif" width="500" height="320" style="margin-bottom: 20px;" />
 
-- 💼 Any freelance work? do reach, [email](mailto:mr.dori.dev@gmail.com) :)
-- 💬 Ask me about anything, i am happy to help!
+- 💼 Any freelance work? do reach, [Email](mailto:mr.dori.dev@gmail.com)
+- 💬 Ask me about anything, I am happy to help!
 
 <br />
 
 **Technologies**
 
 <img align="left" alt="Python" width="26px" src="img/python.png" />
-
 <img align="left" alt="Django" width="26px" src="img/django.png" />
-
 <img align="left" alt="HTML5" width="26px" src="img/html.svg" />
-
 <img align="left" alt="CSS3" width="26px" src="img/css.svg" />
-
 <img align="left" alt="JavaScript" width="26px" src="img/javascript.png" />
-
 <img align="left" alt="React" width="26px" src="img/react.png" />
-
 <img align="left" alt="PostgreSQL" width="26px" src="img/postgresql.png" />
-
 <img align="left" alt="Git" width="26px" src="img/git.png" />
 
 <br />
 <br />
 <br />
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=dori-dev&show_icons=true&theme=gotham" alt="dori-dev" />
+<img src="https://github-readme-stats.vercel.app/api?username=dori-dev&show_icons=true&theme=gotham" alt="dori-dev" />
