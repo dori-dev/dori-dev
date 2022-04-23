@@ -1,4 +1,4 @@
-# Hi, I'm Mohammad <img src="img/hand.gif" width="35px">
+# Hello <img src="img/hand.gif" width="35px">
 
 <a target="_blank" href="https://www.youtube.com/channel/UC8PIMbjxztHeiBWZRpblp2A">
   <img align="left" alt="Dori Learn Youtube" width="27px" src="img/youtube.svg" />
@@ -29,7 +29,7 @@
 <br />
 <br />
 
-Hello, I'm [Mohammad Dori](https://github.com/dori-dev), a full stack creative web developer from Iran. My interest in software is in dreaming up ideas and realizing them. I love learning and I share my knowledge.
+I'm [Mohammad Dori](https://github.com/dori-dev), a full stack creative web developer from Iran. My interest in software is in dreaming up ideas and realizing them. I love learning and I share my knowledge.
 
 <img alt="GIF" src="img/code.gif" width="500" height="320" style="margin-bottom: 20px;" />
 
