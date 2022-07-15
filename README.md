@@ -54,4 +54,4 @@ I'm [Mohammad Dori](https://github.com/dori-dev), a full stack creative web deve
 <br />
 
 <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=dori-dev&show_icons=true&theme=gotham" alt="dori-dev" /></p>
-https://github-readme-stats.vercel.app/api?username=dori-dev&hide=prs&custom_title=Mohammad%20Dori%27s%20Github%20Stats&show_icons=true&theme=tokyonight&border_radius=10&hide_border=true&bg_color=15,0d1117,1a1b26
+<p align="center"><img src="[https://github-readme-stats.vercel.app/api?username=dori-dev&show_icons=true&theme=gotham](https://github-readme-stats.vercel.app/api?username=dori-dev&hide=prs&custom_title=Mohammad%20Dori%27s%20Github%20Stats&show_icons=true&theme=tokyonight&border_radius=10&hide_border=true&bg_color=15,0d1117,1a1b26)" alt="dori-dev" /></p>
