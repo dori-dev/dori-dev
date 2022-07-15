@@ -53,7 +53,7 @@ I'm [Mohammad Dori](https://github.com/dori-dev), a full stack creative web deve
 <br />
 <br />
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=dori-dev&show_icons=true&theme=gotham" alt="dori-dev" /></p>
-<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=dori-dev&hide=prs&show_icons=true&theme=tokyonight&hide_border=true&bg_color=ffffff00" alt="dori-dev" /></p>
 
-[![Readme Card](https://github-readme-stats.vercel.app/api?username=dori-dev&hide=prs&show_icons=true&theme=tokyonight&hide_border=true&bg_color=ffffff00)](https://github.com/dori-dev)
+<a href="https://github.com/dori-dev">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=dori-dev&hide=prs&show_icons=true&theme=tokyonight&hide_border=true&bg_color=ffffff00" />
+</a>
