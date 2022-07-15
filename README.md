@@ -57,3 +57,4 @@ I'm [Mohammad Dori](https://github.com/dori-dev), a full stack creative web deve
 <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=dori-dev&hide=prs&show_icons=true&theme=tokyonight&hide_border=true&bg_color=ffffff00" alt="dori-dev" /></p>
 ![Stats](https://github-readme-stats.vercel.app/api?username=dori-dev&hide=prs&show_icons=true&theme=tokyonight&hide_border=true&bg_color=ffffff00#gh-light-mode-only)
 
+![Termux Logo](https://user-images.githubusercontent.com/72879799/153904095-9d78a019-8495-4035-8174-e3da8e4dd66b.png#gh-light-mode-only)
