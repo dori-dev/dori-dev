@@ -42,10 +42,6 @@ I'm [Mohammad Dori](https://github.com/dori-dev), a full stack creative web deve
 [<img align="center" alt="Dori Instagram" src="img/skills.svg" />](https://github.com/dori-dev)
 
 <br>
-<br>
-<br>
-<br>
-<br>
 
 <a href="https://github.com/dori-dev">
     <picture>
