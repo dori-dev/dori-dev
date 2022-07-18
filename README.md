@@ -39,15 +39,16 @@ I'm [Mohammad Dori](https://github.com/dori-dev), a full stack creative web deve
 <br />
 
 **Technologies**
+[![My Skills](https://skillicons.dev/icons?i=python,django,postgresql,html,css,js,react,git)](https://github.com/dori-dev)
 
-<img align="left" alt="Python" width="26px" src="img/python.png" />
-<img align="left" alt="Django" width="26px" src="img/django.png" />
-<img align="left" alt="HTML5" width="26px" src="img/html.svg" />
-<img align="left" alt="CSS3" width="26px" src="img/css.svg" />
-<img align="left" alt="JavaScript" width="26px" src="img/javascript.png" />
-<img align="left" alt="React" width="26px" src="img/react.png" />
-<img align="left" alt="PostgreSQL" width="26px" src="img/postgresql.png" />
-<img align="left" alt="Git" width="26px" src="img/git.png" />
+<img align="left" alt="Python" width="30px" src="img/python.png" />
+<img align="left" alt="Django" width="30px" src="img/django.png" />
+<img align="left" alt="HTML5" width="30px" src="img/html.svg" />
+<img align="left" alt="CSS3" width="30px" src="img/css.svg" />
+<img align="left" alt="JavaScript" width="30px" src="img/javascript.png" />
+<img align="left" alt="React" width="30px" src="img/react.png" />
+<img align="left" alt="PostgreSQL" width="30px" src="img/postgresql.png" />
+<img align="left" alt="Git" width="30px" src="img/git.png" />
 
 <br />
 <br />
