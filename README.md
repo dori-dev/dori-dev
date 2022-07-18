@@ -45,7 +45,7 @@ I'm [Mohammad Dori](https://github.com/dori-dev), a full stack creative web deve
 
 ## GitHub Stats
 
-<p align="center">
+<p align="left">
     <a href="https://github.com/dori-dev">
         <picture align="center">
             <source align="center" media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=dori-dev&hide=prs&show_icons=true&theme=react&hide_border=true&bg_color=ffffff00">
