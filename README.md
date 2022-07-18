@@ -17,11 +17,16 @@
 
 [<img align="left" alt="Dori Aparat" width="35px" src="img/aparat.png" />](https://www.aparat.com/dori.dev)
 
-[<img align="left" alt="Github" width="35px" src="img/github2.png" />](https://github.com/dori-dev#gh-light-mode-only)
+<!-- [<img align="left" alt="Github" width="35px" src="img/github2.png" />](https://github.com/dori-dev#gh-light-mode-only)
 
-[<img align="left" alt="Github" width="35px" src="img/github.png" />](https://github.com/dori-dev#gh-dark-mode-only)
+[<img align="left" alt="Github" width="35px" src="img/github.png" />](https://github.com/dori-dev#gh-dark-mode-only) -->
+
 
 [<img align="left" alt="Dori Virgool" width="35px" src="img/virgool.png" />](https://virgool.io/@dori-dev)
+
+[<img align="left" alt="Dori Leetcode" width="35px" src="img/leetcode.png" />](https://leetcode.com/#gh-light-mode-only)
+
+[<img align="left" alt="Dori Leetcode" width="35px" src="img/leetcode2.png" />](https://leetcode.com/#gh-dark-mode-only)
 
 [<img align="left" alt="Dori Quera" width="35px" src="img/quera.png" />](https://quera.org/)
 
