@@ -1,26 +1,26 @@
-# Hello <img src="img/hand.gif" width="35px">
+# Hello <img src="img/hand.gif" width="40px">
 
-[<img align="left" alt="Dori's Linkedin" width="35px" src="img/linkedin.svg" />](https://www.linkedin.com)
+[<img align="left" alt="Dori's Linkedin" width="40px" src="img/linkedin.svg" />](https://www.linkedin.com)
 
-[<img align="left" alt="Dori's Twitter" width="35px" src="img/twitter.svg" />](https://twitter.com)
+[<img align="left" alt="Dori's Twitter" width="40px" src="img/twitter.svg" />](https://twitter.com)
 
-[<img align="left" alt="Dori's Stack Overflow" width="35px" src="img/stackoverflow.svg" />](https://stackoverflow.com/)
+[<img align="left" alt="Dori's Stack Overflow" width="40px" src="img/stackoverflow.svg" />](https://stackoverflow.com/)
 
-[<img align="left" alt="Dori's Telegram" width="35px" src="img/telegram.png" />](https://t.me/DoriDev)
+[<img align="left" alt="Dori's Telegram" width="40px" src="img/telegram.png" />](https://t.me/DoriDev)
 
-[<img align="left" alt="Dori's Instagram" width="35px" src="img/instagram.svg" />](https://www.instagram.com/mr.dori.dev/)<br><br>
+[<img align="left" alt="Dori's Instagram" width="40px" src="img/instagram.svg" />](https://www.instagram.com/mr.dori.dev/)<br><br>
 
-[<img align="left" alt="Dori's Youtube" width="35px" src="img/youtube.svg" />](https://www.youtube.com/channel/UC8PIMbjxztHeiBWZRpblp2A)
+[<img align="left" alt="Dori's Youtube" width="40px" src="img/youtube.svg" />](https://www.youtube.com/channel/UC8PIMbjxztHeiBWZRpblp2A)
 
-[<img align="left" alt="Dori's Aparat" width="35px" src="img/aparat.png" />](https://www.aparat.com/dori.dev)
+[<img align="left" alt="Dori's Aparat" width="40px" src="img/aparat.png" />](https://www.aparat.com/dori.dev)
 
-[<img align="left" alt="Dori's Virgool" width="35px" src="img/virgool.png" />](https://virgool.io/@dori-dev)
+[<img align="left" alt="Dori's Virgool" width="40px" src="img/virgool.png" />](https://virgool.io/@dori-dev)
 
-[<img align="left" alt="Dori's Leetcode" width="35px" src="img/leetcode.png" />](https://leetcode.com/#gh-light-mode-only)
+[<img align="left" alt="Dori's Leetcode" width="40px" src="img/leetcode.png" />](https://leetcode.com/#gh-light-mode-only)
 
-[<img align="left" alt="leetcode Leetcode" width="35px" src="img/leetcode2.png" />](https://leetcode.com/#gh-dark-mode-only)
+[<img align="left" alt="leetcode Leetcode" width="40px" src="img/leetcode2.png" />](https://leetcode.com/#gh-dark-mode-only)
 
-[<img align="left" alt="leetcode Quera" width="35px" src="img/quera.png" />](https://quera.org/)
+[<img align="left" alt="leetcode Quera" width="40px" src="img/quera.png" />](https://quera.org/)
 
 <br />
 <br />
@@ -35,11 +35,11 @@ I'm [Mohammad Dori](https://github.com/dori-dev), a full stack creative web deve
 
 <br />
 
-**Technologies**
+## Technologies
 
 <!-- [![Technologies](https://skillicons.dev/icons?i=py,django,fastapi,postgresql,mongodb,git,nginx,docker,linux,html,css,sass,bootstrap,js,react,redux&perline=8)](https://github.com/dori-dev) -->
 
-[<img align="center" alt="Dori Instagram" src="img/skills.svg" />](https://github.com/dori-dev)
+[<img align="left" alt="Dori's Skills" src="img/skills.svg" />](https://github.com/dori-dev)
 
 <br>
 
