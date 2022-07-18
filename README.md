@@ -1,6 +1,6 @@
 # Hello <img src="img/hand.gif" width="35px">
 
-![<img align="left" alt="Dori Linkedin" width="35px" src="img/linkedin.svg" />](https://www.linkedin.com)
+[<img align="left" alt="Dori Linkedin" width="35px" src="img/linkedin.svg" />](https://www.linkedin.com){target="_blank"}
 
 ![<img align="left" alt="Dori Twitter" width="35px" src="img/twitter.svg" />](https://twitter.com)
 
