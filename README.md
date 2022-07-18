@@ -1,5 +1,7 @@
 # Hello <img src="img/hand.gif" width="40px">
 
+[![My Skills](https://skillicons.dev/icons?i=stackoverflow&theme=light)](https://skillicons)
+
 [<img align="left" alt="Dori's Linkedin" width="40px" src="img/linkedin.svg" />](https://www.linkedin.com)
 
 [<img align="left" alt="Dori's Twitter" width="40px" src="img/twitter.svg" />](https://twitter.com)
@@ -28,6 +30,8 @@
 <br />
 <br />
 <br />
+
+# 
 
 I'm [Mohammad Dori](https://github.com/dori-dev), a full stack creative web developer from Iran. My interest in software is in dreaming up ideas and realizing them. I love learning and I share my knowledge.
 
