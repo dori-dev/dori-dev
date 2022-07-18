@@ -1,12 +1,12 @@
 # Hello <img src="img/hand.gif" width="40px">
 
-[![My Skills](https://skillicons.dev/icons?i=stackoverflow&theme=light)](https://skillicons)
-
 [<img align="left" alt="Dori's Linkedin" width="40px" src="img/linkedin.svg" />](https://www.linkedin.com)
 
 [<img align="left" alt="Dori's Twitter" width="40px" src="img/twitter.svg" />](https://twitter.com)
 
-[<img align="left" alt="Dori's Stack Overflow" width="40px" src="img/stackoverflow.svg" />](https://stackoverflow.com/)
+[<img align="left" alt="Dori's Stack Overflow" width="40px" src="img/stackoverflow.svg" />](https://stackoverflow.com/#gh-light-mode-only)
+
+[<img align="left" alt="Dori's Stack Overflow" width="40px" src="img/stackoverflow2.svg" />](https://stackoverflow.com/#gh-dark-mode-only)
 
 [<img align="left" alt="Dori's Telegram" width="40px" src="img/telegram.png" />](https://t.me/DoriDev)
 
