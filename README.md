@@ -16,14 +16,15 @@
 
 [<img align="left" alt="Dori's Aparat" width="40px" src="img/aparat.png" />](https://www.aparat.com/dori.dev)
 
-[<img align="left" alt="Dori's Virgool" width="40px" src="img/virgool.png" />](https://virgool.io/@dori-dev)
+[<img align="left" alt="Dori's Virgool" width="40px" src="img/virgool.png" />](https://virgool.io/@dori-dev)<br /><br />
 
-[<img align="left" alt="Dori's Leetcode" width="40px" src="img/leetcode.png" />](https://leetcode.com/#gh-light-mode-only)
+<!-- [<img align="left" alt="Dori's Leetcode" width="40px" src="img/leetcode.png" />](https://leetcode.com/#gh-light-mode-only) -->
 
 <!-- [<img align="left" alt="Dori's Leetcode" width="40px" src="img/leetcode2.png" />](https://leetcode.com/#gh-dark-mode-only) -->
 
 <!-- [<img align="left" alt="Dori's Quera" width="40px" src="img/quera.png" />](https://quera.org/) -->
 
+<br />
 <br />
 <br />
 <br />
