@@ -24,7 +24,7 @@
 
 I'm [Mohammad Dori](https://github.com/dori-dev), a full stack creative web developer from Iran. My interest in software is in dreaming up ideas and realizing them. I love learning and I share my knowledge.
 
-<img alt="GIF" src="img/code.gif" width="500" height="320" style="margin-bottom: 20px;" />
+<img alt="GIF" src="img/code.gif" width="500" height="320" style="margin-bottom: 20px;border-radius: 10px" />
 
 - 💼 Any freelance work? do reach, [Email](mailto:mr.dori.dev@gmail.com)
 - 💬 Ask me about anything, I am happy to help!
