@@ -41,7 +41,7 @@ I'm [Mohammad Dori](https://github.com/dori-dev), a full stack creative web deve
 **Technologies**
 
 
-![Technologies](https://skillicons.dev/icons?i=py,django,fastapi,nginx,postgresql,mysql,mongodb,redis,linux,docker,git,html,css,bootstrap,sass,js,react,redux&perline=8)
+![Technologies](https://skillicons.dev/icons?i=py,django,fastapi,nginx,postgresql,mysql,mongodb,redis,linux,git,docker,html,css,sass,bootstrap,js,react,redux&perline=8)
 
 
 <br />
