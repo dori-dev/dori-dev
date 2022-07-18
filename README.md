@@ -1,29 +1,22 @@
 # Hello <img src="img/hand.gif" width="35px">
 
-<a target="_blank" href="https://www.youtube.com/channel/UC8PIMbjxztHeiBWZRpblp2A">
-  <img align="left" alt="Dori Learn Youtube" width="27px" src="img/youtube.svg" />
-</a>
-<a target="_blank" href="https://virgool.io/@dori-dev">
-  <img align="left" alt="Dori Virgool" width="27px" src="img/virgool.png" />
-</a>
+[<img align="left" alt="Dori Learn Youtube" width="35px" src="img/youtube.svg" />](https://www.youtube.com/channel/UC8PIMbjxztHeiBWZRpblp2A){:target="\_blank"}
 
-[<img align="left" alt="Github" width="27px" src="img/github2.png" />](https://github.com/dori-dev#gh-light-mode-only)
+[<img align="left" alt="Dori Virgool" width="35px" src="img/virgool.png" />](https://virgool.io/@dori-dev){:target="\_blank"}
 
-[<img align="left" alt="Github" width="27px" src="img/github.png" />](https://github.com/dori-dev#gh-dark-mode-only)
+[<img align="left" alt="Dori Telegram" width="35px" src="img/telegram.png" />](https://t.me/DoriDev){:target="\_blank"}
 
-<a target="_blank" href="https://www.instagram.com">
-  <img align="left" alt="Mohammad Instagram" width="27px" src="img/instagram.png" />
-</a>
-<a target="_blank" href="https://www.aparat.com/dori.dev">
-  <img align="left" alt="Mohammad Aparat" width="27px" src="img/aparat.png" />
-</a>
+[<img align="left" alt="Github" width="35px" src="img/github2.png" />](https://github.com/dori-dev#gh-light-mode-only){:target="\_blank"}
 
-<!-- <a href="https://twitter.com">
-  <img align="left" alt="Mohammad Twitter" width="27px" src="img/twitter.svg" />
-</a>
-<a href="https://www.linkedin.com">
-  <img align="left" alt="Mohammad Linkedin" width="27px" src="img/linkedin.svg" />
-</a> -->
+[<img align="left" alt="Github" width="35px" src="img/github.png" />](https://github.com/dori-dev#gh-dark-mode-only){:target="\_blank"}
+
+[<img align="left" alt="Mohammad Instagram" width="35px" src="img/instagram.svg" />](https://www.instagram.com/mr.dori.dev/){:target="\_blank"}
+
+[<img align="left" alt="Mohammad Aparat" width="35px" src="img/aparat.png" />](https://www.aparat.com/dori.dev){:target="\_blank"}
+
+[<img align="left" alt="Mohammad Twitter" width="35px" src="img/twitter.svg" />](https://twitter.com){:target="\_blank"}
+
+[<img align="left" alt="Mohammad Linkedin" width="35px" src="img/linkedin.svg" />](https://www.linkedin.com){:target="\_blank"}
 
 <br />
 <br />
@@ -40,9 +33,7 @@ I'm [Mohammad Dori](https://github.com/dori-dev), a full stack creative web deve
 
 **Technologies**
 
-
 [![Technologies](https://skillicons.dev/icons?i=py,django,fastapi,postgresql,mongodb,git,nginx,docker,linux,html,css,sass,bootstrap,js,react,redux&perline=8)](https://github.com/dori-dev)
-
 
 <a href="https://github.com/dori-dev">
     <picture>
