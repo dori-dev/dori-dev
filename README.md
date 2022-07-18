@@ -39,7 +39,9 @@ I'm [Mohammad Dori](https://github.com/dori-dev), a full stack creative web deve
 <br />
 
 **Technologies**
-[![My Skills](https://skillicons.dev/icons?i=python,django,postgresql,html,css,js,react,git)](https://github.com/dori-dev)
+
+
+[![My Skills](https://skillicons.dev/icons?i=py,django,fastapi,nginx,postgresql,mysql,mongodb,redis,linux,docker,github,gitlab,html,css,bootstrap,sass,js,react,redux,git,vscode&perline=8)
 
 <img align="left" alt="Python" width="30px" src="img/python.png" />
 <img align="left" alt="Django" width="30px" src="img/django.png" />
