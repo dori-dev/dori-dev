@@ -39,18 +39,14 @@ I'm [Mohammad Dori](https://github.com/dori-dev), a full stack creative web deve
 
 <!-- [![Technologies](https://skillicons.dev/icons?i=py,django,fastapi,postgresql,mongodb,git,nginx,docker,linux,html,css,sass,bootstrap,js,react,redux&perline=8)](https://github.com/dori-dev) -->
 
-[<img align="left" alt="Dori's Skills" src="img/skills.svg" />](https://github.com/dori-dev)
+[<img align="center" alt="Dori's Skills" src="img/skills.svg" />](https://github.com/dori-dev)
 
-<br>
-<br>
-<br>
-<br>
-<br>
+## GitHub Stats
 
 <a href="https://github.com/dori-dev">
-    <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=dori-dev&hide=prs&show_icons=true&theme=react&hide_border=true&bg_color=ffffff00">
-        <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=dori-dev&hide=prs&show_icons=true&theme=vue&hide_border=true&bg_color=ffffff00">
-        <img alt="Shows a black logo in light color mode and a white one in dark color mode." src="https://github-readme-stats.vercel.app/api?username=dori-dev&hide=prs&show_icons=true&theme=react&hide_border=true">
+    <picture align="center">
+        <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=dori-dev&custom_title=&hide=prs&show_icons=true&theme=react&hide_border=true&bg_color=ffffff00">
+        <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=dori-dev&custom_title=&hide=prs&show_icons=true&theme=vue&hide_border=true&bg_color=ffffff00">
+        <img alt="Shows a black logo in light color mode and a white one in dark color mode." src="https://github-readme-stats.vercel.app/api?username=dori-dev&custom_title=&hide=prs&show_icons=true&theme=react&hide_border=true">
     </picture>
 </a>
